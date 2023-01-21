@@ -1,1 +1,1 @@
-# Tasks Different types of tasks
+Different types of tasks
